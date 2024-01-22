@@ -24,7 +24,7 @@ class FeaturesSection extends React.Component {
                                  data-sal-delay="400"
                                  data-sal-duration="1000">
                                 <p>
-                                Utilize any Terp Network logic in your buisness model to integrate censorship-resistant solutions & re-discover the beauty of decentralization.
+                                Utilize any combination of Terp Network's features in your buisness model to benefit from sovereign, censorship-resistant solutions.
                                 </p>
                             </div>
                             <a href={menu['hacks-and-bounties']} data-sal="fade"
@@ -137,7 +137,7 @@ class FeaturesSection extends React.Component {
                                  data-sal="fade"
                                  data-sal-delay="400"
                                  data-sal-duration="1000">
-                               A simple, hyperfocused ecosystem for opting-out of traditional systems, & self-perscribing ways we can collaborate more effeciently
+                               A simple, hyperfocused ecosystem for opting-out of traditional systems, & self-perscribing ways we can collaborate accountably & effectively.
                             </div>
 
                             <a href={menu["cosmwasm"]} target={'_blank'} rel={'noreferrer'}>
@@ -190,7 +190,7 @@ class FeaturesSection extends React.Component {
                                             />
                                         </div>
                                         <div className={'title'}>Interoperability</div>
-                                        <div className={'text-box'}>Deployment on Terp Network and interoperable with all networks in the cosmos ecosystem via IBC.</div>
+                                        <div className={'text-box'}>Deployment on Terp Network and interoperable with your favorite blockchain, thanks to Inter-Blockchain-Communication Technology (IBC).</div>
                                     </div>
                                 </div>
                                 <div className={'col-12 col-sm-6'}>

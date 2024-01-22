@@ -18,11 +18,20 @@ export function ServicesSection() {
                                  data-sal-delay="200"
                                  data-sal-duration="1000">
                                 <div className={'inner'}>
-                                    <div className={'title'}>Keplr Wallet</div>
+                                    <div className={'title'}>Fully Non-Custodial</div>
+                                    <div className={'text-box'}>Not your keys, not your coins.</div>
+                                    <div className={'text-box'}>Skip the middleman and enjoy a seamless connection between you and what you value.</div>
+                                    <br/>
                                     <div className={'row'}>
-                                        <div className={'col-auto'}>
+                                        <div className={'col-auto py-4'}>
                                             <a href={menu.keplr} target={'_blank'} rel={'noreferrer'}>
                                                 <button type={'button'}>Install Keplr</button>
+                                            </a>
+                                            <a href={menu.leap} target={'_blank'} rel={'noreferrer'}>
+                                                <button type={'button'}>Install Leap</button>
+                                            </a>
+                                            <a href={menu.snaps} target={'_blank'} rel={'noreferrer'}>
+                                                <button type={'button'}>Install Metamask Snaps</button>
                                             </a>
                                         </div>
                                         <div className={'col-auto'}>
@@ -93,24 +102,15 @@ export function ServicesSection() {
                                  data-sal-duration="1000">
                                 <div className={'col-5 pb-3'}>
                                     <a href={menu.osmosis} target={'_blank'} rel={'noreferrer'}>
-                                        <button type={'button'}>Enter Osmosis</button>
+                                        <button type={'button'}>Osmosis DEX</button>
                                     </a>
                                 </div>
                                 <div className={'col-5 pb-3'}>
-                                    <a href={menu.wynd} target={'_blank'} rel={'noreferrer'}>
-                                        <button type={'button'}>Enter Wynd</button>
+                                    <a href={menu.fun} target={'_blank'} rel={'noreferrer'}>
+                                        <button type={'button'}>ibc.fun</button>
                                     </a>
                                 </div>
-                                <div className={'col-5 pb-3'}>
-                                    <a href={menu.loopmarkets} target={'_blank'} rel={'noreferrer'}>
-                                        <button type={'button'}>Enter Loop</button>
-                                    </a>
-                                </div>
-                                <div className={'col-5 pb-3'}>
-                                    <a href={menu.hopers} target={'_blank'} rel={'noreferrer'}>
-                                        <button type={'button'}>Enter Hopers</button>
-                                    </a>
-                                </div>
+
                             </div>
                         </div>
                     </div>

@@ -77,6 +77,7 @@ const PiechartSection = () => {
                         <li>No seed sale, no private sale, no public sale</li>
                         <li>Fairdrop / Stakedrop Genesis launch</li>
                         <li>Genesis supply to 163.000 unique atom & bcna stakers</li>
+                        <li>Ownership distribution to Cannabis + Web3 communities</li>
                     </ul>
                 </div>
             </div>
