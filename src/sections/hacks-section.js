@@ -65,7 +65,7 @@ class FeaturesSection extends React.Component {
                                         </div>
                                         <div className={'title'}>Multi-Chain Models</div>
                                         <div className={'text-box'}>
-                                        Leverage other Independent blockchains use-cases.
+                                        Compliment other blockchains use-case profiles with your own.
                                         </div>
                                     </div>
                                 </div>
@@ -80,9 +80,9 @@ class FeaturesSection extends React.Component {
                                                 placeholder="blurred"
                                             />
                                         </div>
-                                        <div className={'title'}>Non Fungible Tokens</div>
+                                        <div className={'title'}>Verifiable Frameworks</div>
                                         <div className={'text-box'}>
-                                        Unique digital asset with verifiable ownership and provable scarcity.
+                                    Logic that can be verified unlocks trust in technology deployed here.
                                         </div>
                                     </div>
                                 </div>
@@ -97,9 +97,9 @@ class FeaturesSection extends React.Component {
                                                 placeholder="blurred"
                                             />
                                         </div>
-                                        <div className={'title'}>Privacy</div>
+                                        <div className={'title'}>Privacy Methods</div>
                                         <div className={'text-box'}>
-                                            Privacy preserving protocols on Terp Network.
+                                            Features to respect the data we create as individuals, not just value it. 
                                         </div>
                                     </div>
                                 </div>
@@ -160,7 +160,7 @@ class FeaturesSection extends React.Component {
                                             />
                                         </div>
                                         <div className={'title'}>Speed</div>
-                                        <div className={'text-box'}>Utilizing the Cosmos SDK & CometBFT Consensus to ensure high throughput and fast contract execution.</div>
+                                        <div className={'text-box'}>High throughput and fast finality, thanks to the open source consensus framework CometBFT.</div>
                                     </div>
                                 </div>
                                 <div className={'col-12 col-sm-6'}>
@@ -175,7 +175,7 @@ class FeaturesSection extends React.Component {
                                             />
                                         </div>
                                         <div className={'title'}>Cost</div>
-                                        <div className={'text-box'}>Low cost deployment up to 35000 times cheaper than gen 2 blockchain networks.</div>
+                                        <div className={'text-box'}>Low cost for realistic micropayment strategies.</div><br/>
                                     </div>
                                 </div>
                                 <div className={'col-12 col-sm-6'}>
@@ -190,7 +190,7 @@ class FeaturesSection extends React.Component {
                                             />
                                         </div>
                                         <div className={'title'}>Interoperability</div>
-                                        <div className={'text-box'}>Deployment on Terp Network and interoperable with your favorite blockchain, thanks to Inter-Blockchain-Communication Technology (IBC).</div>
+                                        <div className={'text-box'}>Power your creative and functional systems that are interoperable with the Interchain Ecosystem</div>
                                     </div>
                                 </div>
                                 <div className={'col-12 col-sm-6'}>

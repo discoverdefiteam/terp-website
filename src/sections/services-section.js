@@ -49,9 +49,9 @@ export function ServicesSection() {
                                  data-sal-delay="200"
                                  data-sal-duration="1000">
                                 <div className={'inner'}>
-                                    <div className={'title'}>Staking Terp</div>
+                                    <div className={'title'}>Staking To Ensure</div>
                                     <div className={'text-box'}>
-                                        Terp Network is a proof-of-stake blockchain which allows users to stake their funds, as staking rewards are distributed to stakers every block. At any time, stakers can claim their accumulated rewards via their wallet.
+                                        Terp Network is a proof-of-stake blockchain, meaning users stake their funds, which contributes to ensure the mimimum expected voting power required for the network to produce blocks. <br/><br/>Users who stake can earn rewards after each new block and at any time, stakers can claim their accumulated rewards via their wallet.
                                         <ul>
                                             <li>Secure the Network</li>
                                             <li>Earn Staking Rewards</li>
@@ -94,7 +94,7 @@ export function ServicesSection() {
                                  data-sal="fade"
                                  data-sal-delay="400"
                                  data-sal-duration="1000">
-                                Swap & LP your Juno on various Interchain DEXs.
+                                Swap & LP your Terp on various Interchain DEXs.
                             </div>
                             <div className={'row mt-4'}
                                  data-sal="fade"

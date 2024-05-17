@@ -40,8 +40,8 @@ const HeroSection = () => {
                         <div className={'text-box'} data-sal="fade"
                              data-sal-delay="400"
                              data-sal-duration="1000">
-                            Terp Network helps realize a sovereign blockchain ecosystem,  <br/>
-                            for a full spectrum of verifiable buisness logic.
+                            Terp Network is a sovereign blockchain ecosystem, for helping nuture a   <br/>
+                           full spectrum of verifiable buisness logic.
                         </div>
 
                         <div className={'row'} data-sal="fade"

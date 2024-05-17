@@ -37,7 +37,7 @@ const EcosystemSection = () => {
                                 data-sal-duration="1000">ECOSYSTEM</legend>
                         <h3 data-sal="fade"
                              data-sal-delay="200"
-                             data-sal-duration="1000">75+ Interoperable Networks, Ø Presale Raised, with Industry Standard Cryptography </h3>
+                             data-sal-duration="1000">Infinite Interoperable Networks, Ø Presale Raised, with Industry Standard Cryptography </h3>
                         <div className={'text-box'} data-sal="fade"
                              data-sal-delay="600"
                              data-sal-duration="1000">
